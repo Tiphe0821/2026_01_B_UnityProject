@@ -204,7 +204,7 @@ public class PlayerMovement : MonoBehaviour
     }
     void ApplyGliderMovement(float horizontal, float vertical)
     {
-        Vector3 gliderVelocity new Vector3(
+        Vector3 gliderVelocity = new Vector3(
                 horizontal * gliderMoveSpeed,
                 -gliderFallSpeed,
                 vertical * gliderMoveSpeed);
