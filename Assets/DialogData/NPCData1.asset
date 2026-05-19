@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcbd467632ffa454bae2bcf1e0e0c959, type: 3}
+  m_Name: NPCData1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueDataSO
+  characterName: "\uBCF4\uC2A4 1"
+  characterImage: {fileID: 21300000, guid: 5d4973bdb2f09b24f9a62ab49ad3d7a5, type: 3}
+  dialogueLines:
+  - "\uC548\uB155 \uB098\uB294 \uBCF4\uC2A4\uC57C"
+  - "\uB9CC\uB098\uC11C \uBC18\uAC00\uC6CC"

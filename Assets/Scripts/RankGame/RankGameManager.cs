@@ -158,7 +158,7 @@ public class RankGameManager : MonoBehaviour
             rank.currentCell.currentRank = null;
         }
 
-        Destroy(rank.currentCell);
+        Destroy(rank.gameObject);
     }
 
     public void MergeRanks(DraggableRank draggableRank, DraggableRank targetRank)
