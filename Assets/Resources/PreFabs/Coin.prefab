@@ -66,6 +66,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 17933d8d5f20f1a4c9ec8da7ebcc8cb8, type: 3}
       insertIndex: -1
       addedObject: {fileID: 8973865019106382387}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 17933d8d5f20f1a4c9ec8da7ebcc8cb8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6922913972649263337}
   m_SourcePrefab: {fileID: 100100000, guid: 17933d8d5f20f1a4c9ec8da7ebcc8cb8, type: 3}
 --- !u!1 &883305567597553612 stripped
 GameObject:
@@ -107,3 +110,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ZAxisMover
   speed: 5
   timer: 5
+--- !u!114 &6922913972649263337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 883305567597553612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679cefb94b32b9345ac6da4e1bc29ea8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TweenCoin
